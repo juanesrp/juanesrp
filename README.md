@@ -29,8 +29,9 @@ Hola, Soy Juan Esteban Rendón
 ## 💻 Mis Tecnológias
 
 <p>
-    <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-blue"></a>
+    <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&color=blue"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
     <a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
     <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/javascript-blue?logo=javascript"></a>
+    <a href=""><img alt="Figma" src="https://img.shields.io/badge/Figma-white?logo=figma"></a>
 </p>
