@@ -21,9 +21,12 @@ Hola, Soy Juan Esteban Rendón
 ## 🤝 Contactate conmigo
 
 <p align="center">
-	<a href="mailto:juanesrp@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/juanestebanrendonpechene/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/juanesrp/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="mailto:juanesrp@gmail.com"><img img src="[https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=%23ffffff&color=%23EA4335
+)"/></a>
+	<a href="https://www.linkedin.com/in/juanestebanrendonpechene/"><img src="[https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=%23ffffff&color=%230A66C2
+)"/></a>
+    <a href="https://www.instagram.com/juanesrp/"><img src="[https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=%23ffffff&color=%23E4405F
+)"/></a>
 </p>
 
 ## 💻 Mis Tecnológias
