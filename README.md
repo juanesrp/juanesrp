@@ -8,7 +8,7 @@ Hola, Soy Juan Esteban Rendón
 <hr>
 
 <pre>
-💻 Soy Desarrollador Full Stack
+💻 Soy Desarrollador Full Stack con especialidad en Front End
 📚 Soy Ingeniero de Sistemas y Computación de la Universidad Tecnológica de Pereira, tambien estudie en Henry
 📝 Tengo un gran interés en la Ingeniería y Diseño de Software
 🛠️ Me encuentro estudiando Desarrollo Full Stack
