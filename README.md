@@ -45,11 +45,11 @@ Soy Ingeniero de Sistemas y Computación con un enfoque integral en el ciclo de 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanesrp&layout=compact&theme=dark&hide=html,css&langs_count=10" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanesrp&theme=dark" alt="Estadísticas de Juan" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanesrp&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de Juan" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=juanesrp&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
