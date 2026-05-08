@@ -45,11 +45,13 @@ Soy Ingeniero de Sistemas y Computación con un enfoque integral en el ciclo de 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <!-- Tarjeta de Lenguajes: Forzamos el layout y verificamos el usuario -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanesrp&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanesrp&layout=compact&theme=dark&hide=html,css&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Estadísticas Generales: Añadimos iconos y configuramos el tema -->
-  <img src="https://github-readme-stats.vercel.app/api?username=juanesrp&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estadísticas de Juan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanesrp&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de Juan" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanesrp&theme=dark" alt="GitHub Streak" />
 </p>
