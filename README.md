@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Fullstack Developer | DevOps & Cloud Enthusiast | Sistemas Engineer</strong>
+  <strong>Fullstack Developer | DevOps & Cloud Enthusiast | Systems Engineer</strong>
 </p>
 
 <p align="center">
